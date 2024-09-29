@@ -7,8 +7,8 @@ export default hopeTheme({
   hostname: 'https://neverbiasu.github.io',
 
   author: {
-    name: 'Mr.Hope',
-    url: 'https://mister-hope.com'
+    name: 'neverbiasu',
+    url: 'https://neverbiasu.github.io'
   },
 
   iconAssets: 'fontawesome-with-brands',
@@ -34,7 +34,7 @@ export default hopeTheme({
       Gitee: 'https://example.com',
       GitHub: 'https://example.com',
       Gitlab: 'https://example.com',
-      Gmail: 'mailto:info@example.com',
+      Gmail: 'neverbiasu@gmail.com',
       Instagram: 'https://example.com',
       Lark: 'https://example.com',
       Lines: 'https://example.com',
@@ -115,7 +115,7 @@ export default hopeTheme({
   },
 
   // enable it to preview all changes in time
-  // hotReload: true,
+  hotReload: true,
 
   plugins: {
     blog: true,
